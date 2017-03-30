@@ -43,10 +43,10 @@ Before we get started let’s go through some basics for Python:
 |%		     |   Modulus		
 
 * Comparators: <br>
-![Comparators](/Users/sherylbernard/Desktop/intro_to_python/img/ComparisonOperators.png)
+![comparisonoperators](https://cloud.githubusercontent.com/assets/20215525/24488402/3e5c9ff2-1534-11e7-979d-2ad2d46ce0bc.png)
 
 * Keywords : These are reserved words and cannot be used to name constants or variables or identifier name. 
-![Keywords_python](/img/keywords_python.png) 
+![keywords_python](https://cloud.githubusercontent.com/assets/20215525/24488404/4d7631ec-1534-11e7-9867-c69e44f2bcc6.png)
 
 * print : print keyword is used to print anything like value/string on the console.
 
@@ -97,7 +97,7 @@ like
 
 * String index : Each character is string is assigned an index number started with 0.
 
-![String_index](/img/string_index.png)
+![string_index](https://cloud.githubusercontent.com/assets/20215525/24488418/5e787694-1534-11e7-8519-9513644e5a88.png)
 
 Assume, var_name = 'monkey'
 
@@ -125,13 +125,15 @@ For example,
 	 from math import sqrt 
     
 This command invokes ’sqrt’ function, which is included in 'math' module.
-![Module](/img/python-modules.jpg)
+![python-modules](https://cloud.githubusercontent.com/assets/20215525/24488476/bf6b96ac-1534-11e7-8435-010c0b27809f.jpg)
+
 
 * In Python, whitespace is used to structure code. Whitespace is important, so you have to be careful with how you use it.
 
 
+
 ## Running the first Hello World program
-<br>
+
 ### Hello world program
 ```print('Hello World!')```
 <br>
@@ -224,7 +226,8 @@ These functions are called anonymous because they are not declared in the standa
 ###Lists
 
 List is like [array](https://techterms.com/definition/array). It is a collection of different data-type variables. 
-![List](/img/lists.png)
+![lists](https://cloud.githubusercontent.com/assets/20215525/24488520/07ab8e04-1535-11e7-913b-07feb00e1571.png)
+
 
 * To access element of list
 
@@ -276,8 +279,7 @@ For loop in Python is used to iterate over a sequence (list, tuple, string) or o
 		for variable in sequence:
 			#block-code
 
-![forloop](/img/forLoop.jpg)
-
+![forloop](https://cloud.githubusercontent.com/assets/20215525/24488440/880f1c60-1534-11e7-89e1-23cbea4b5e43.jpg)
 
 
 ###While Loop
@@ -297,6 +299,7 @@ If the while condition is True, execute block code1 is executed. Otherwise, else
 
 <br><br>
 
-Happy Learning!
-![python-snake](/img/python_snake.jpg)
+Happy Learning!<br>
+![python_snake](https://cloud.githubusercontent.com/assets/20215525/24488447/96ec46ae-1534-11e7-81cc-b0becbf84ebc.jpg)
+
 	
